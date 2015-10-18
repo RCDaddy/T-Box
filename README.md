@@ -5,7 +5,7 @@ This project was originally created for people who cannot solder SMT components 
 
 You can find eagle PCB designs and code updated in this repository. You are free to use these designs for personal use only. 
 
-# v 1.0 Changelog:
+**v 1.0 Changelog:**
 
 Rev 4:
 

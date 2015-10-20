@@ -1,6 +1,6 @@
 #T-Box v1.0
-![alt text](img/v1.1/t-box%201.1%20r1%20front.png)
-![alt text](img/v1.1/t-box%201.1%20r1%20back.png)
+![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
+![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
 
 ####BOM
 - 3x 1k resistor

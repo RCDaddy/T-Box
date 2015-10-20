@@ -1,4 +1,4 @@
-#T-Box v1.0
+#T-Box v1.1
 ![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
 ![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
 

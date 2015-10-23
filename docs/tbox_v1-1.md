@@ -12,7 +12,7 @@
 - 1x DSN-MIN-360 Step Down regulator.
 - 2x RP-SMA/SMA connector board mountable
 - 1x 4066 digital switch chip
-- 1x Atmega328p
+- 1x Atmega328p (WITH ARDUINO BOOTLOADER!!)
 - 1x 16.000Mhz Crystal
 - 2x 22pf Cap
 - 1x 0.1uf Cap

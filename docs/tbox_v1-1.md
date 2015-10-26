@@ -1,6 +1,24 @@
 #T-Box v1.0
-![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
-![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
+
+#Source Code
+In the settings.h file you will need to change the following lines
+```
+#define rssiPinA A6
+```
+to
+```
+#define rssiPinA A2
+```
+
+and also
+
+```
+    #define rssiPinB A7
+```
+to
+```
+    #define rssiPinB A3
+```
 
 ####BOM
 - 3x 1k resistor
@@ -19,3 +37,7 @@
 - 1x 10k resistor
 
 - 1x OLED 128x64 display I2C (5v tollerant) Pin order must be VCC GND SCL SDA
+
+![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
+![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
+

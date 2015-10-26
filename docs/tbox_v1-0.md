@@ -14,7 +14,3 @@
 - 1x 4066 digital switch chip
 - 1x Arduino Pro Mini
 - 1x OLED 128x64 display I2C (5v tollerant) Pin order must be VCC GND SCL SDA
-
-####Get One
-
-At [OSHPark] (https://oshpark.com/shared_projects/3EgQdEcd) 

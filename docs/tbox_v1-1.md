@@ -38,6 +38,8 @@ to
 
 - 1x OLED 128x64 display I2C (5v tollerant) Pin order must be VCC GND SCL SDA
 
+Board available at [OSHPark](https://oshpark.com/shared_projects/lhnlCQW3)
+
 ![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
 ![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
 

@@ -19,7 +19,7 @@ You can find eagle PCB designs and code updates in this repository. You are free
 [T-Box v1.0 rev.4](docs/tbox_v1-1.md)
 
 ##Eagle Files
-Eagle Files and Scematics can be found [here](eagle/)
+Eagle Files and Scematics can be found [here](src/eagle/)
 
 ##Enclosure
 

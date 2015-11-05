@@ -7,10 +7,10 @@ You can find eagle PCB designs and code updates in this repository. You are free
 
 ## Table of Contents
 1. [Hardware](#hardware)
-2. [Eagle Files](#Eagle Files)
+2. [Eagle Files](#Eagle)
 3. [Enclosure]()
 4. [Changelog]()
-5. [Contributing]()
+5. [Recognition](##Recognition)
 6. [License]()
 
 ##Hardware

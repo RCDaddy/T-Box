@@ -25,6 +25,11 @@ Eagle Files and Scematics can be found [here](src/eagle/)
 
 ##Changelog
 
-##ontributing
+##Recognition
+- Diversity Receiver Schematics by Shea Ivey
+- Firmware by Shea Ivey
+- Original Idea by Marko Hoepken
+- Scanner by Johan Hermen
+- Initial 2 Button version by Peter (pete1990)
 
 ##License

@@ -4,7 +4,7 @@ The RCD T-Box is a 5.8ghz video reciever based on the schematics and code of [rx
 This project was created for people who cannot solder SMT components but are happy to build one themselves.
 
 ## Donations Welcome!
-**Help fund more research and development of RCDaddy Projects.**
+Lets be honest, development costs money so any help you can give will be more than appreciated.
 
 [![Donations](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBW7Z7E5Y84EL)
 
@@ -14,9 +14,8 @@ You can find eagle PCB designs and code updates in this repository. You are free
 1. [Hardware](#hardware)
 2. [Eagle Files](#eagle files)
 3. [Enclosure]()
-4. [Changelog]()
-5. [Recognition](#recognition)
-6. [License]()
+4. [Recognition](#recognition)
+5. [License]()
 
 ##Hardware
 [T-Box v1.1 rev.1](docs/tbox_v1-1.md)
@@ -27,8 +26,7 @@ You can find eagle PCB designs and code updates in this repository. You are free
 Eagle Files and Scematics can be found [here](src/eagle/)
 
 ##Enclosure
-
-##Changelog
+A basic enclosure has been made and can be found [here](src/enclosure-for-v1.x)
 
 ##Recognition
 - Diversity Receiver Schematics by Shea Ivey

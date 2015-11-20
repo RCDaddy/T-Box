@@ -6,6 +6,12 @@ This project was created for people who cannot solder SMT components but are hap
 ## Donations Welcome!
 Lets be honest, development costs money so any help you can give will be more than appreciated.
 
+**Support the Original RX5808_Pro_Diversity Project by Shea Ivey**
+
+[![Donations](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GE83PG4KBZ5NJ)
+
+**Support the T-Box Development**
+
 [![Donations](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBW7Z7E5Y84EL)
 
 You can find eagle PCB designs and code updates in this repository. You are free to use these designs for personal use only. 

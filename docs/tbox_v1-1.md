@@ -40,6 +40,6 @@ to
 
 Board available at [OSHPark](https://oshpark.com/shared_projects/U8csRbMR)
 
-![alt text](img/v1.1/t-box%20v1.1%20r1%20front.png)
-![alt text](img/v1.1/t-box%20v1.1%20r1%20back.png)
+![alt text](img/v1.1/t-box%20v1.1%20r2%20front.png)
+![alt text](img/v1.1/t-box%20v1.1%20r2%20back.png)
 

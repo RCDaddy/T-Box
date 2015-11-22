@@ -24,7 +24,7 @@ You can find eagle PCB designs and code updates in this repository. You are free
 5. [License]()
 
 ##Hardware
-[T-Box v1.1 rev.1](docs/tbox_v1-1.md)
+[T-Box v1.1 rev.2](docs/tbox_v1-1.md)
 
 [T-Box v1.0 rev.4](docs/tbox_v1-1.md)
 
